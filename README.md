@@ -1,1 +1,1 @@
-# FLA-Dfa-to-Nfa-converter
+# FLA-Dfa-to-Nfa-converter whit and withous epsilon
